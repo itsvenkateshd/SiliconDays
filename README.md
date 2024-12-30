@@ -2,6 +2,8 @@
 Welcome to **SiliconDays**, a dedicated knowledge hub designed specifically for the academic community of Silicon Institute of Technology, Silicon University, Bhubaneswar. Curated by **Venkatesh D., Assistant Professor in the Department of Computer Science and Engineering**, this platform serves as a unified space to organize, share, and access essential academic resources.
 ***
   **Key Highlights:**  
+* **Web Development(Internet Technologies) Source Codes:**
+* **Web Development(Internet Technologies) Lab Assignments:**
 * **Full Stack(MERN) Development(Emerging Technologies) Source Codes:**
 * **Full Stack(MERN) Development(Emerging Technologies) Lab Assignments:**
 * **Java Programming(OOP using Java) Source Codes:** Well-structured and documented Java Programming Source Codes from lab sessions and classroom teachings of, fostering practical understanding.
