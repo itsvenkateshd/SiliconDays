@@ -13,8 +13,8 @@ Welcome to **SiliconDays**, a dedicated knowledge hub designed specifically for 
 * **Assembly Langugage(8085) (COA) Lab Assigments:**
 * **Matlab (COA) Source Codes:**
 * **Matlab (COA) Lab Assigments:**
-* **Operating System (COA) Source Codes:**
-* **Operating System (COA) Lab Assigments:**  
+* **Operating System Source Codes:**
+* **Operating System Lab Assigments:**  
 * _Class Codes_: Well-structured and documented source codes from lab sessions and classroom teachings, fostering practical understanding.
 
 **_This repository is a step toward creating a modern academic ecosystem, enabling students and faculty to engage with course content effectively and focus on mastering engineering concepts._**
